@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap");
+* {
+  margin: 0;
+  font-family: "Cabin", sans-serif;
+  font-size: 15px;
+}
+#wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgb(171, 229, 252), rgb(240, 252, 188));
+}
+#refreshButton {
+  width: 40px;
+  height: 40px;
+}

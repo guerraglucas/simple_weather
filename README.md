@@ -1,3 +1,10 @@
+# Simple Weather app 🌧
+
+This app uses data from OpenWeather API. It was made for study purposes.
+Requires browser geolocation permission.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
